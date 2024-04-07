@@ -1,52 +1,52 @@
-﻿State,Latitude,Longitude,reduced,reduced,concat,region,sub-region,country
-Alabama,32.806671,-86.79113,32,-86,32-86,South,East South Central,US
-Alaska,61.370716,-152.404419,61,-15,61-15,West,Pacific,US
-Arizona,33.729759,-111.431221,33,-11,33-11,West,Mountain,US
-Arkansas,34.969704,-92.373123,34,-92,34-92,South,West South Central,US
-California,36.116203,-119.681564,36,-11,36-11,West,Pacific,US
-Colorado,39.059811,-105.311104,39,-10,39-10,West,Mountain,US
-Connecticut,41.597782,-72.755371,41,-72,41-72,Northeast,New England,US
-Delaware,39.318523,-75.507141,39,-75,39-75,South,South Atlantic,US
-District of Columbia,38.897438,-77.026817,38,-77,38-77,South,South Atlantic,US
-Florida,27.766279,-81.686783,27,-81,27-81,South,South Atlantic,US
-Georgia,33.040619,-83.643074,33,-83,33-83,South,South Atlantic,US
-Hawaii,21.094318,-157.498337,21,-15,21-15,West,Pacific,US
-Idaho,44.240459,-114.478828,44,-11,44-11,West,Mountain,US
-Illinois,40.349457,-88.986137,40,-88,40-88,Midwest,East North Central,US
-Indiana,39.849426,-86.258278,39,-86,39-86,Midwest,East North Central,US
-Iowa,42.011539,-93.210526,42,-93,42-93,Midwest,West North Central,US
-Kansas,38.5266,-96.726486,38,-96,38-96,Midwest,West North Central,US
-Kentucky,37.66814,-84.670067,37,-84,37-84,South,East South Central,US
-Louisiana,31.169546,-91.867805,31,-91,31-91,South,West South Central,US
-Maine,44.693947,-69.381927,44,-69,44-69,Northeast,New England,US
-Maryland,39.063946,-76.802101,39,-76,39-76,South,South Atlantic,US
-Massachusetts,42.230171,-71.530106,42,-71,42-71,Northeast,New England,US
-Michigan,43.326618,-84.536095,43,-84,43-84,Midwest,East North Central,US
-Minnesota,45.694454,-93.900192,45,-93,45-93,Midwest,West North Central,US
-Mississippi,32.741646,-89.678696,32,-89,32-89,South,East South Central,US
-Missouri,38.456085,-92.288368,38,-92,38-92,Midwest,West North Central,US
-Montana,46.921925,-110.454353,46,-11,46-11,West,Mountain,US
-Nebraska,41.12537,-98.268082,41,-98,41-98,Midwest,West North Central,US
-Nevada,38.313515,-117.055374,38,-11,38-11,West,Mountain,US
-New Hampshire,43.452492,-71.563896,43,-71,43-71,Northeast,Middle Atlantic,US
-New Jersey,40.298904,-74.521011,40,-74,40-74,Northeast,Middle Atlantic,US
-New Mexico,34.840515,-106.248482,34,-10,34-10,West,Mountain,US
-New York,42.165726,-74.948051,42,-74,42-74,Northeast,Middle Atlantic,US
-North Carolina,35.630066,-79.806419,35,-79,35-79,South,South Atlantic,US
-North Dakota,47.528912,-99.784012,47,-99,47-99,Midwest,West North Central,US
-Ohio,40.388783,-82.764915,40,-82,40-82,Midwest,East North Central,US
-Oklahoma,35.565342,-96.928917,35,-96,35-96,South,West South Central,US
-Oregon,44.572021,-122.070938,44,-12,44-12,West,Pacific,US
-Pennsylvania,40.590752,-77.209755,40,-77,40-77,Northeast,New England,US
-Rhode Island,41.680893,-71.51178,41,-71,41-71,Northeast,New England,US
-South Carolina,33.856892,-80.945007,33,-80,33-80,South,South Atlantic,US
-South Dakota,44.299782,-99.438828,44,-99,44-99,Midwest,West North Central,US
-Tennessee,35.747845,-86.692345,35,-86,35-86,South,East South Central,US
-Texas,31.054487,-97.563461,31,-97,31-97,South,West South Central,US
-Utah,40.150032,-111.862434,40,-11,40-11,West,Mountain,US
-Vermont,44.045876,-72.710686,44,-72,44-72,Northeast,New England,US
-Virginia,37.769337,-78.169968,37,-78,37-78,South,South Atlantic,US
-Washington,47.400902,-121.490494,47,-12,47-12,West,Pacific,US
-West Virginia,38.491226,-80.954453,38,-80,38-80,South,South Atlantic,US
-Wisconsin,44.268543,-89.616508,44,-89,44-89,Midwest,East North Central,US
-Wyoming,42.755966,-107.30249,42,-10,42-10,West,Mountain,US
+﻿State,State Abbr,Latitude,Longitude,reduced,reduced,concat,region,sub-region,country
+Alabama,AL,32.806671,-86.79113,32,-86,32-86,South,East South Central,US
+Alaska,AK,61.370716,-152.404419,61,-15,61-15,West,Pacific,US
+Arizona,AZ,33.729759,-111.431221,33,-11,33-11,West,Mountain,US
+Arkansas,AR,34.969704,-92.373123,34,-92,34-92,South,West South Central,US
+California,CA,36.116203,-119.681564,36,-11,36-11,West,Pacific,US
+Colorado,CO,39.059811,-105.311104,39,-10,39-10,West,Mountain,US
+Connecticut,CT,41.597782,-72.755371,41,-72,41-72,Northeast,New England,US
+Delaware,DE,39.318523,-75.507141,39,-75,39-75,South,South Atlantic,US
+District of Columbia,DC,38.897438,-77.026817,38,-77,38-77,South,South Atlantic,US
+Florida,FL,27.766279,-81.686783,27,-81,27-81,South,South Atlantic,US
+Georgia,GA,33.040619,-83.643074,33,-83,33-83,South,South Atlantic,US
+Hawaii,HI,21.094318,-157.498337,21,-15,21-15,West,Pacific,US
+Idaho,ID,44.240459,-114.478828,44,-11,44-11,West,Mountain,US
+Illinois,IL,40.349457,-88.986137,40,-88,40-88,Midwest,East North Central,US
+Indiana,IN,39.849426,-86.258278,39,-86,39-86,Midwest,East North Central,US
+Iowa,IA,42.011539,-93.210526,42,-93,42-93,Midwest,West North Central,US
+Kansas,KS,38.5266,-96.726486,38,-96,38-96,Midwest,West North Central,US
+Kentucky,KY,37.66814,-84.670067,37,-84,37-84,South,East South Central,US
+Louisiana,LA,31.169546,-91.867805,31,-91,31-91,South,West South Central,US
+Maine,ME,44.693947,-69.381927,44,-69,44-69,Northeast,New England,US
+Maryland,MD,39.063946,-76.802101,39,-76,39-76,South,South Atlantic,US
+Massachusetts,MA,42.230171,-71.530106,42,-71,42-71,Northeast,New England,US
+Michigan,MI,43.326618,-84.536095,43,-84,43-84,Midwest,East North Central,US
+Minnesota,MN,45.694454,-93.900192,45,-93,45-93,Midwest,West North Central,US
+Mississippi,MS,32.741646,-89.678696,32,-89,32-89,South,East South Central,US
+Missouri,MO,38.456085,-92.288368,38,-92,38-92,Midwest,West North Central,US
+Montana,MT,46.921925,-110.454353,46,-11,46-11,West,Mountain,US
+Nebraska,NE,41.12537,-98.268082,41,-98,41-98,Midwest,West North Central,US
+Nevada,NV,38.313515,-117.055374,38,-11,38-11,West,Mountain,US
+New Hampshire,NH,43.452492,-71.563896,43,-71,43-71,Northeast,Middle Atlantic,US
+New Jersey,NJ,40.298904,-74.521011,40,-74,40-74,Northeast,Middle Atlantic,US
+New Mexico,NM,34.840515,-106.248482,34,-10,34-10,West,Mountain,US
+New York,NY,42.165726,-74.948051,42,-74,42-74,Northeast,Middle Atlantic,US
+North Carolina,NC,35.630066,-79.806419,35,-79,35-79,South,South Atlantic,US
+North Dakota,ND,47.528912,-99.784012,47,-99,47-99,Midwest,West North Central,US
+Ohio,OH,40.388783,-82.764915,40,-82,40-82,Midwest,East North Central,US
+Oklahoma,OK,35.565342,-96.928917,35,-96,35-96,South,West South Central,US
+Oregon,OR,44.572021,-122.070938,44,-12,44-12,West,Pacific,US
+Pennsylvania,PA,40.590752,-77.209755,40,-77,40-77,Northeast,New England,US
+Rhode Island,RI,41.680893,-71.51178,41,-71,41-71,Northeast,New England,US
+South Carolina,SC,33.856892,-80.945007,33,-80,33-80,South,South Atlantic,US
+South Dakota,SD,44.299782,-99.438828,44,-99,44-99,Midwest,West North Central,US
+Tennessee,TN,35.747845,-86.692345,35,-86,35-86,South,East South Central,US
+Texas,TX,31.054487,-97.563461,31,-97,31-97,South,West South Central,US
+Utah,UT,40.150032,-111.862434,40,-11,40-11,West,Mountain,US
+Vermont,VT,44.045876,-72.710686,44,-72,44-72,Northeast,New England,US
+Virginia,VA,37.769337,-78.169968,37,-78,37-78,South,South Atlantic,US
+Washington,WA,47.400902,-121.490494,47,-12,47-12,West,Pacific,US
+West Virginia,WV,38.491226,-80.954453,38,-80,38-80,South,South Atlantic,US
+Wisconsin,WI,44.268543,-89.616508,44,-89,44-89,Midwest,East North Central,US
+Wyoming,WY,42.755966,-107.30249,42,-10,42-10,West,Mountain,US
