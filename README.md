@@ -1,11 +1,11 @@
 # Project: Analyzing the Societal, Health, and Environmental Impacts of Energy
 
 #### Members:
-Artien Voskanian
-Claire Fraser
-Alexis Clark (AC)
-Taylor Griggs
-Pete Kline
+- Artien Voskanian
+- Claire Fraser
+- Alexis Clark (AC)
+- Taylor Griggs
+- Pete Kline
 
 #### Introduction:
 This project aims to investigate the relationship between energy consumption, weather patterns, energy efficiency, and individual health. By analyzing these factors, we seek to gain insights into the impact of energy consumption on societal well-being and inform strategies for sustainable energy management.
