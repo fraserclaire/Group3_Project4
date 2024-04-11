@@ -26,8 +26,25 @@ We reviewed 10yrs of weather data utilizing the Open-Meteo weather API, and grap
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/combined_heatmap.png)
 
 
-#### Fossil Fuel Energy Consumption
+### Fossil Fuel Energy Consumption
 We pulled data from the Energy Information Administration and when we compare the levels of total fossil fuel consumption by state, we see some striking differences. The amount of fossil fuel consumption in Texas exceeds California by almost 2x the amount. The key contributors in the later years seem to be from petroleum and gas consumption, as coal energy consumption seems to decline over 10 years for almost all states.
+
+##### Total Fossil Fuels
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_total_fossil_fuel_consumption_top_10_US.png)
+
+##### Coal Consumption
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_coal_consumption_top_10_US.png)
+
+##### Petroleum Consumption
+![AltText])https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_petroleum_consumption_top_10_US.png)
+
+##### Natural Gas Consumption
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_gas_consumption_top_10_US.png)
+
+##### Nuclear Consumption
+
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_nuclear_consumption_top_10_US.png)
+
 
 <enter all fossil fuel pics>
 
