@@ -100,8 +100,9 @@ While the gray points show the the lowest rates across the nation
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/lungBronchalCancer_rates_topBottomTen.png)
 
 
-<enter pics lung and bronchus cancer rates>
+#####  Lung & Bronchus Cancer Rate - Linear Regression
 
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/taylor/Lunglower48.png)
 
 
 ### Data Modeling
@@ -149,9 +150,7 @@ Finally, we set out to find any relationship between energy type and lung cancer
 ### Additional resources 
 https://public.tableau.com/app/profile/pete.kline/viz/Energy_and_Weather/WeatherMinList
 
-
 https://public.tableau.com/app/profile/taylor.griggs/viz/CancerRates_17127924919080/LungRates
-
 
 https://public.tableau.com/app/profile/taylor.griggs/viz/ratesPlot/2010-2020CancerRates
 
