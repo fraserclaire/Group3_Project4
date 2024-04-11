@@ -50,30 +50,32 @@ We pulled data from the Energy Information Administration and when we compare th
 ### Renewable Energy consumption
 From 2015 to 2020, California had the highest amount of total renewable energy consumption. What is interesting is that when we reached 2020, the consumption in Texas brought the state up to second rank. This increase over time seems to mirror the increase seen in the wind energy plot, likely due to the numerous wind farms in the state of Texas. Washington state had the highest total renewable energy in 2011–likely due to hydropower, however the level seemed to slightly decrease overtime which is interesting
 
-##### Annual Total Renewable Consumption
+#### Annual Total Renewable Consumption
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_total_renewable_consumption_top_10_US.png)
 
 
 #### Fossil fuels vs renewables - 10yr
 States with high energy consumption are adjusting to evolving demands and changing weather patterns. They are actively decreasing the production and consumption of non-renewable resources while investing in renewable energy sources instead…with Texas telling an interesting story
 
-##### Fossil Fuel Change By State Over 10 Year Period
-![AltText(https://github.com/fraserclaire/Group3_Project4/blob/main/Resources/fossil_change_by_state.png)
+#### Fossil Fuel Change By State Over 10 Year Period
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/Resources/fossil_change_by_state.png)
 
 
-### Cancer section
-
+#### Rates of All Cancer Types
 We analyzed and plotted all 50 states rates per year from 2010 to 2020
 On the left the box plot states that as a nation we saw an increase amongst all cancer types as a rate per year.
 So we dove into a linear regression analysis of the rates. 
-<box plot and line graph> 
+
+##### Box Plot
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/allcancer_rates.png)
+
+##### All Cancer Rates - Top Bottom 10
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/allcancer_rates_topBottomTen.png)
 
 
 #### Cancer rate linear regression
 Looking at the linear regression data we were able to compare rate of change to rate of change rather than individual points. It created a best fit line between the differing rates.
-
 As you can see, the green states show a linear regression that assumes a decrease in cancer rates per population from the prior years
-
 On the flip side we say that the red states were showing a linear regression that shows an increase in cancer rates from the prior years.
 
 <lin regress pic>
