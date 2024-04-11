@@ -36,7 +36,7 @@ We pulled data from the Energy Information Administration and when we compare th
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_coal_consumption_top_10_US.png)
 
 ##### Petroleum Consumption
-![AltText])https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_petroleum_consumption_top_10_US.png)
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_petroleum_consumption_top_10_US.png)
 
 ##### Natural Gas Consumption
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_gas_consumption_top_10_US.png)
@@ -46,12 +46,13 @@ We pulled data from the Energy Information Administration and when we compare th
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_nuclear_consumption_top_10_US.png)
 
 
-<enter all fossil fuel pics>
 
-#### Renewable Energy consumption
+### Renewable Energy consumption
 From 2015 to 2020, California had the highest amount of total renewable energy consumption. What is interesting is that when we reached 2020, the consumption in Texas brought the state up to second rank. This increase over time seems to mirror the increase seen in the wind energy plot, likely due to the numerous wind farms in the state of Texas. Washington state had the highest total renewable energy in 2011–likely due to hydropower, however the level seemed to slightly decrease overtime which is interesting
 
-<enter all renewable pics>
+##### Annual Total Renewable Consumption
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/ac/energy_by_types_visuals/annual_total_renewable_consumption_top_10_US.png)
+
 
 #### Fossil fuels vs renewables - 10yr
 States with high energy consumption are adjusting to evolving demands and changing weather patterns. They are actively decreasing the production and consumption of non-renewable resources while investing in renewable energy sources instead…with Texas telling an interesting story
