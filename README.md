@@ -1,4 +1,4 @@
-# Project: Analyzing the Societal, Health, and Environmental Impacts of Energy
+  # Project: Analyzing the Societal, Health, and Environmental Impacts of Energy
 ### Members:
 - Artien Voskanian
 - Claire Fraser
@@ -87,17 +87,18 @@ On the flip side we say that the red states were showing a linear regression tha
 
 #### Lung & Bronchus Cancer 
 
+#### Lung & Bronchus Cancer Rate - Linear Regression
+We then repeated the process with Lung and Bronchus Cancer
+The box plot on the left shows a rather stagnant rate change over the years 2010 to 2020
+The states in color on the right graph show the highest cancer rates.
+While the gray points show the the lowest rates across the nation
+
 ##### Lung Cancer Rates
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/lungcancer_rates.png)
 
 ##### All Lung & Bronchus Cancer Rates - Top Bottom 10
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/lungBronchalCancer_rates_topBottomTen.png)
 
-#### Lung & Bronchus Cancer Rate - Linear Regression
-We then repeated the process with Lung and Bronchus Cancer
-The box plot on the left shows a rather stagnant rate change over the years 2010 to 2020
-The states in color on the right graph show the highest cancer rates.
-While the gray points show the the lowest rates across the nation
 
 <enter pics lung and bronchus cancer rates>
 
