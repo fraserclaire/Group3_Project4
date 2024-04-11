@@ -69,22 +69,25 @@ So we dove into a linear regression analysis of the rates.
 ##### Box Plot
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/allcancer_rates.png)
 
-##### All Cancer Rates - Top Bottom 10
+#### All Cancer Rates - Top Bottom 10
 ![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/allcancer_rates_topBottomTen.png)
 
 
-#### Cancer rate linear regression
+#### Cancer Rate Linear Regression
 Looking at the linear regression data we were able to compare rate of change to rate of change rather than individual points. It created a best fit line between the differing rates.
 As you can see, the green states show a linear regression that assumes a decrease in cancer rates per population from the prior years
 On the flip side we say that the red states were showing a linear regression that shows an increase in cancer rates from the prior years.
 
-<lin regress pic>
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/taylor/Lower48rate.png)
 
 
-#### Lung and bronchus cancer 
+#### Lung & Bronchus Cancer 
 
-rates are pretty stagnant through time
+##### Lung Cancer Rates
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/lungcancer_rates.png)
 
+##### All Lung & Bronchus Cancer Rates - Top Bottom 10
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/lungBronchalCancer_rates_topBottomTen.png)
 
 #### Lung & Bronchus Cancer Rate - Linear Regression
 We then repeated the process with Lung and Bronchus Cancer
