@@ -57,7 +57,8 @@ From 2015 to 2020, California had the highest amount of total renewable energy c
 #### Fossil fuels vs renewables - 10yr
 States with high energy consumption are adjusting to evolving demands and changing weather patterns. They are actively decreasing the production and consumption of non-renewable resources while investing in renewable energy sources instead…with Texas telling an interesting story
 
-<enter bar graphs here>
+##### Fossil Fuel Change By State Over 10 Year Period
+![AltText(https://github.com/fraserclaire/Group3_Project4/blob/main/Resources/fossil_change_by_state.png)
 
 
 ### Cancer section
