@@ -12,10 +12,12 @@ That regions with higher levels of renewable energy production correlate with im
 And that leveraging machine learning algorithms can forecast future shifts in energy demands based on historical data, including the prediction of fuel poverty among segments of the population. 
 
 ### Hypotheses
-Weather patterns significantly influence energy consumption, with states with the highest and lowest temperatures exhibiting the highest energy usage. 
-States with greater amounts of renewable energy consumption correlate with improved physical health among residents. The metric for health considered in this evaluation is cancer. 
-Machine learning models can predict future changes in energy requirements based on historical weather data. Machine learning models can predict an increase or decrease in cancer rates when compared to historical cancer data. Improving energy efficiency may be more effective than increasing production in mitigating energy consumption and environmental impacts.
-Enhancing energy efficiency may yield greater dividends in reducing cancer rates and mitigating environmental impacts compared to simply enhancing production capacities. Through rigorous investigation and analysis, we endeavor to illuminate pathways toward a more sustainable energy future.
+- Weather patterns significantly influence energy consumption, with states with the highest and lowest temperatures exhibiting the highest energy usage. 
+- States with greater amounts of renewable energy consumption correlate with improved physical health among residents. The metric for health considered in this evaluation is cancer. 
+- Machine learning models can predict future changes in energy requirements based on historical weather data.
+- Machine learning models can predict an increase or decrease in cancer rates when compared to historical cancer data. Improving energy efficiency may be more effective than increasing production in mitigating energy consumption and environmental impacts.
+- Enhancing energy efficiency may yield greater dividends in reducing cancer rates and mitigating environmental impacts compared to simply enhancing production capacities.
+- Through rigorous investigation and analysis, we endeavor to illuminate pathways toward a more sustainable energy future.
 
 ### Data Visualizations
 
