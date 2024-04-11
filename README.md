@@ -148,6 +148,8 @@ Finally, we set out to find any relationship between energy type and lung cancer
 
 
 ### Additional resources 
+- [Presentation](https://docs.google.com/presentation/d/1tcg8Rg3vOHTfxoKHleafMgYMob31tX-ozlIgQZopAAc/edit#slide=id.g855186e73f_0_44)
+  
 - [Energy and Weather Tableau Visualizations](https://public.tableau.com/app/profile/pete.kline/viz/Energy_and_Weather/WeatherMinList)
 
 - [Lung Cancer Rates Tableau Visualizations](https://public.tableau.com/app/profile/taylor.griggs/viz/CancerRates_17127924919080/LungRates)
