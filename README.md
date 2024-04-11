@@ -23,7 +23,7 @@ And that leveraging machine learning algorithms can forecast future shifts in en
 
 We reviewed 10yrs of weather data utilizing the Open-Meteo weather API, and graphed the results. As anticipated, more northern states and states at higher elevation states were coldest on average. And more coastal or southern states were hotter on average. But we needed to find if these states were in fact large users of energy to prove our hypothesis.
 
-[!AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/combined_heatmap.png)
+![AltText](https://github.com/fraserclaire/Group3_Project4/blob/main/claire/combined_heatmap.png)
 
 
 #### Fossil Fuel Energy Consumption
